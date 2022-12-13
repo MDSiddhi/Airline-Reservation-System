@@ -1,0 +1,24 @@
+
+              PATIENT DETAILS              
+-------------------*********-----------------
+***PATIENT'S PERSONAL DETAILS***
+
+PATIENT ID.3
+PATIENT'S NAME:-komal shinde
+FATHERS/PARENT NAME:-prakash shinde
+PATIENT'S AGE:-21
+PATIENT'S GENDER:-f
+PATIENT'S HEIGHT:-145
+PATIENT'S WEIGHT:-45
+PATIENT'S BLOOD GROUP:-ab
+***PATIENT'S CONTACT DETAILS***
+ADDRESS:-at post sangali
+CONTACT NUMBER:-6786276326
+E-MAIL ADDRESS:-sdfgdfhrtbgf
+***PATIENT'S TREATMENT DETAILS***
+DOCTOR'S NAME:-dr.anil jagdale
+DISEASE NAME:-corona
+PRESCRIBED MEDICINES/ TEST:-swab test
+BILL AMOUNT:-2000
+PAYMENT METHOD:-cash
+ ***************** RECORD END ********************

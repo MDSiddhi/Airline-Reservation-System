@@ -1,0 +1,9 @@
+
+DOCTOR'S NAME:dr.kiran koli/PATIENT ID.1/PATIENT'S NAME:-sneha patil
+DOCTOR'S NAME:dr.rucha patil/PATIENT ID.2/PATIENT'S NAME:-ravi kadam
+DOCTOR'S NAME:dr.anil jagdale/PATIENT ID.3/PATIENT'S NAME:-komal shinde
+DOCTOR'S NAME:dr.rucha patil/PATIENT ID.4/PATIENT'S NAME:-sagar kate
+DOCTOR'S NAME:dr.anil jagdale/PATIENT ID.5/PATIENT'S NAME:-tushar kale
+DOCTOR'S NAME:dr.kiran koli	PATIENT ID.2	PATIENT'S NAME:-sana shaikh
+DOCTOR'S NAME:	PATIENT ID.2	PATIENT'S NAME:-Aayush Nikam
+DOCTOR'S NAME:anil jagdale	PATIENT ID.12	PATIENT'S NAME:-Arun

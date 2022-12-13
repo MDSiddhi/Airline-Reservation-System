@@ -1,0 +1,24 @@
+
+              PATIENT DETAILS              
+-------------------*********-----------------
+***PATIENT'S PERSONAL DETAILS***
+
+PATIENT ID.4
+PATIENT'S NAME:-sagar kate
+FATHERS/PARENT NAME:-tukaram kate
+PATIENT'S AGE:-32
+PATIENT'S GENDER:-m
+PATIENT'S HEIGHT:-167
+PATIENT'S WEIGHT:-67
+PATIENT'S BLOOD GROUP:-o
+***PATIENT'S CONTACT DETAILS***
+ADDRESS:-at post baramati
+CONTACT NUMBER:-7697349739
+E-MAIL ADDRESS:-
+***PATIENT'S TREATMENT DETAILS***
+DOCTOR'S NAME:-dr.rucha patil
+DISEASE NAME:-cancer
+PRESCRIBED MEDICINES/ TEST:-tissue test
+BILL AMOUNT:-60000
+PAYMENT METHOD:-card
+ ***************** RECORD END ********************
